@@ -1,2 +1,2 @@
 # wmap
- This is a very simple website crawler .
+ This is a very simple website mapper .
